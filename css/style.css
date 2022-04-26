@@ -1,0 +1,36 @@
+/*Created by: Grace S
+*Created on: Apr 2022
+*This CSS file defines the style for index.html
+*ICS2O-Unit3-02-PHP-VolumeTriangularPyramid
+*/
+
+body {
+  background-color: rgb(252, 251, 223);
+}
+
+h1 {
+  background-color: #f3f17f;
+  color: #050505;
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  font-family:Monospace;
+  font-size: 30px;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 8px;
+}
+
+h2 {
+  border-style: solid;
+  background-color: #FAFACF;
+  color: #050505;
+  border-color: #e7ddb2;
+  text-align: center;
+}
